@@ -1,0 +1,49 @@
+body{
+	margin: 0 auto;
+	padding: 0;
+	width: 960px;
+}
+
+.logo{
+	padding-top: 20px;
+	font-size: 25px;
+
+}
+
+.menu{
+	padding-top: 25px;
+	padding-left: 15px;
+}
+
+
+
+.menu2{
+	padding-bottom:20px;
+	padding-left: 15px;
+}
+
+.imgicon{
+	padding-top: 15px;
+}
+
+.work_heading{
+	text-align: center;
+	line-height: 100px;
+	background: gray;
+	color:black;
+	font-size: 30px;
+}
+
+
+.footter{
+	text-align: center;
+	line-height: 100px;
+	padding-top: 60px;
+}
+.blitz{
+	width: 1000px;
+}
+
+
+
+
